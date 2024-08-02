@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Programming to help new students, learn coding 
 - 📫 How to reach me >> If you have any program to develop, email me at >> sehraabali73@gmail.com
 - 😄 Pronouns: Ali Hamza, Roll No: F23BINFT1M01202, Mr. Hacker
-- ⚡ Fun fact: Let's start programming together
+- ⚡ Fun fact: Understand the Programming languages such as HTML, C++ , MySQL database and a little bit expert in Java
 
 <!---
 Ali-Hamza-01202/Ali-Hamza-01202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
